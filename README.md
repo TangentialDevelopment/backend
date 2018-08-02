@@ -8,4 +8,7 @@
 - intoNode: exercises to familiarize working with node.js
 - routeParams: exercises around using different routes in express
 - ejs: ejs demo app and interactions with postman
+<<<<<<< HEAD
 - movieApi: usage of open source api's
+=======
+>>>>>>> 01317e53e7e804737b1225bce00e5a90b092afa4
