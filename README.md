@@ -1,5 +1,5 @@
 # Tutorial backend exercises taken from Colt Steel's web development bootcamp
-## Tools used: Node.js, Express, EJS, mongo, mongoose
+## Tools used: Node.js, Express, EJS, mongo, mongoose, passport
 
 ### file details:
 - intoNode: exercises to familiarize working with node.js
@@ -11,3 +11,4 @@
 - movieApi: usage of open source api's
 - databases: interacting with a database using javascript
 - associations: showing associations with embedded data, object references with module exports
+- authentication: how to secure data
